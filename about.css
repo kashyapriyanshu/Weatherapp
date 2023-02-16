@@ -1,0 +1,15 @@
+nav{
+    background-color:rgb(137, 137, 147); 
+    
+    height:70px;
+}
+body{
+    background-color: rgb(237, 242, 241);
+}
+   
+.navbar-brand{
+    padding-left: 40px;
+}
+#searchform{
+    padding-right: 30px;
+}
